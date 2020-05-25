@@ -1,0 +1,32 @@
+body{
+    background-color:#d3d3d3;
+    background-color: #f2d3a1;
+}
+p{
+    background-color: #9090EE;
+    /*overflow: */
+    display:table-cell;
+ /*overflow: scroll;*/
+ 
+
+}
+img{
+    float:left;
+    border-style: groove;
+    border-radius: 10px;
+    border-spacing: 99px;
+     border-color: white;
+    border-collapse: collapse;
+      display:table-cell;
+      
+}
+img2{
+    display:table-row;
+    overflow: scroll;
+      border-style: groove;
+    border-radius: 10px;
+    border-spacing: 99px;
+     border-color: aqua;
+    border-collapse: collapse;
+      
+}
